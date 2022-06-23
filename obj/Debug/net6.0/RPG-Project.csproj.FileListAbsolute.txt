@@ -1,0 +1,15 @@
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\bin\Debug\net6.0\RPG-Project.exe
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\bin\Debug\net6.0\RPG-Project.deps.json
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\bin\Debug\net6.0\RPG-Project.runtimeconfig.json
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\bin\Debug\net6.0\RPG-Project.dll
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\bin\Debug\net6.0\RPG-Project.pdb
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.csproj.AssemblyReference.cache
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.AssemblyInfoInputs.cache
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.AssemblyInfo.cs
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.csproj.CoreCompileInputs.cache
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.dll
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\refint\RPG-Project.dll
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.pdb
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\RPG-Project.genruntimeconfig.cache
+C:\Users\japin\Desktop\DIO  AULAS\MAIN FILES\DotNet\RPG-Project\obj\Debug\net6.0\ref\RPG-Project.dll
